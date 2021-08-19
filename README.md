@@ -1,8 +1,8 @@
 # The repository contains all of my talks
 
-RHACM + OpenShift GitOps - From first mile multi-cluster provisioning to last mile application delivery (Upcoming)
-
 Gitops and ACS (Upcoming)
+
+[RHACM + OpenShift GitOps - From first mile multi-cluster provisioning to last mile application delivery](https://github.com/VinayBhalerao/talks/blob/main/RHACM%20and%20Gitops%20-%20From%20first-mile%20multicluster%20provisioning%20to%20last-mile%20application%20delivery.pdf)
 
 [API gateways and service meshes - June 2021](https://github.com/VinayBhalerao/talks/blob/main/API%20gateways%20and%20service%20meshes%20-%20June%202021.pptx)
 
