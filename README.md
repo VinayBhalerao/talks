@@ -1,6 +1,6 @@
 # The repository contains all of my talks
 
-Gitops and ACS (Upcoming)
+[RHACS + OpenShift GitOps - From first-mile image scanning to last-mile software delivery - Sept 2021](https://github.com/VinayBhalerao/talks/blob/main/RHACS%20and%20OpenShift%20Pipelines.pdf) [Video](https://www.youtube.com/watch?v=O9pgqDRK0BI)
 
 [RHACM + OpenShift GitOps - From first mile multi-cluster provisioning to last mile application delivery - Aug 2021](https://github.com/VinayBhalerao/talks/blob/main/RHACM%20and%20Gitops%20-%20From%20first-mile%20multicluster%20provisioning%20to%20last-mile%20application%20delivery.pdf)
 
