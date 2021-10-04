@@ -2,7 +2,7 @@
 
 [RHACS + OpenShift GitOps - From first-mile image scanning to last-mile software delivery - Sept 2021](https://github.com/VinayBhalerao/talks/blob/main/RHACS%20and%20OpenShift%20Pipelines.pdf) - [Video](https://www.youtube.com/watch?v=O9pgqDRK0BI)
 
-[RHACM + OpenShift GitOps - From first mile multi-cluster provisioning to last mile application delivery - Aug 2021](https://github.com/VinayBhalerao/talks/blob/main/RHACM%20and%20Gitops%20-%20From%20first-mile%20multicluster%20provisioning%20to%20last-mile%20application%20delivery.pdf)
+[RHACM + OpenShift GitOps - From first mile multi-cluster provisioning to last mile application delivery - Aug 2021](https://github.com/VinayBhalerao/talks/blob/main/RHACM%20and%20Gitops%20-%20From%20first-mile%20multicluster%20provisioning%20to%20last-mile%20application%20delivery.pdf) - [Video](https://www.youtube.com/watch?v=waw32Pf-Pno)
 
 [API gateways and service meshes - June 2021](https://github.com/VinayBhalerao/talks/blob/main/API%20gateways%20and%20service%20meshes%20-%20June%202021.pptx)
 
